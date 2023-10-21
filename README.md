@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yanwenzhou
-- 👀 I’m interested in deep learning;reinforcement learning;ship collision avoidance 
+- 👀 I’m interested in deep learning,reinforcement learning and ship collision avoidance 
 - 🌱 I’m currently learning ship collision avoidance
 - 💞️ I’m looking to collaborate on ship collision avoidance 
 - 📫 How to reach me yanwenzhou1@outlook.com
